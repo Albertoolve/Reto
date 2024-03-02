@@ -210,10 +210,10 @@ main{
         justify-content: space-between; /*Esto me movio la imagen ala el lado izquierdo de la pagina*/
     }
         
-    .contenedorcajatexto{
-        left: 110px;
-        padding-left: 5px;
-        width: 450px;
+.contenedorcajatexto{
+    left: 110px;
+    padding-left: 5px;
+    width: 450px;
     }
     
 .cajatexto{
@@ -240,9 +240,9 @@ main{
 
     .contenedor-botones{
         position: absolute;
-        top: 250px;
-        left: 39px;
-        margin: 15px;
+        width: 390px;
+        top:250px;
+        left: 30px;
     }
     .seccion2{
         display: block;
